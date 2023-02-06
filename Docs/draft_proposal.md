@@ -20,6 +20,13 @@
 
 
 # Anlaysis:
+Here are the general steps performed in the classification of "Missouri Active Alcohol License Data" using machine learning:
+  * Data Preparation: This involves cleaning and preprocessing, handling missing values, and transforming the data into a suitable format for machine learning.
+  * Feature selection: This involves selecting the most relevant features from the data that will be used to train the model. Features could include location,           license type, and issuing authority.
+  * Model selection: This involves choosing a suitable machine-learning algorithm for the task. A classification algorithm such as logistic regression, decision         trees, random forests, or support vector machines could be used in this case.
+  * Model training: Involves using a portion of the data to train the machine learning model on the relationships between the features and the target variable.
+  * Model evaluation: This involves using another portion of the data to evaluate the model's performance and tune the parameters to optimize its performance.
+  * 
 
 
 # Feature Coloumns and target variables
@@ -34,6 +41,7 @@ Several machine learning models can be used with the "Missouri Active Alcohol Li
   * Regression: If the goal is to predict the number of alcohol licenses issued in a particular area or for a particular license type, regression models such as         linear regression, decision trees, random forests, and neural networks could be used.
   * Clustering: If the goal is to identify patterns or groups in the data, clustering models such as k-means, hierarchical clustering, and DBSCAN could be used to       segment the data into clusters based on similarities in license type, location, and other factors.
   * Anomaly detection: If the goal is to identify unusual or irregular patterns in the issuance of licenses, anomaly detection models such as one-class SVM,             isolation forests, and autoencoders could be used.
+Finally, the model's performance is evaluated on the test data to determine its accuracy, precision, recall, and F1 score, among other metrics. If the model's        performance is unsatisfactory, the steps may need to be repeated to improve the model.
 
 
 # Results:
