@@ -1,4 +1,6 @@
-# Draft Proposal for my Capstone project on Current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the State of Missouri
+# Draft Proposal for my Capstone project 
+
+# Current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the State of Missouri
 
 ## Data_606 Capstone : Tuesday
 
