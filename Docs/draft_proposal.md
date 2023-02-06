@@ -29,11 +29,11 @@
 
 
 # Techniques and Models:
-  * Logistic Regression
-  * Random forest
-  * Decision tree
-  * K-nearest neighbor
-  * KNN Classification
+Several machine learning models can be used with the "Missouri Active Alcohol License Data" dataset, depending on the specific goals and objectives of the project. Some common models include:
+  * Classification: If the goal is to predict the likelihood of a license being granted or revoked based on various factors, classification models such as logistic       regression, decision trees, random forests, and support vector machines could be used.
+  * Regression: If the goal is to predict the number of alcohol licenses issued in a particular area or for a particular license type, regression models such as         linear regression, decision trees, random forests, and neural networks could be used.
+  * Clustering: If the goal is to identify patterns or groups in the data, clustering models such as k-means, hierarchical clustering, and DBSCAN could be used to       segment the data into clusters based on similarities in license type, location, and other factors.
+  * Anomaly detection: If the goal is to identify unusual or irregular patterns in the issuance of licenses, anomaly detection models such as one-class SVM,             isolation forests, and autoencoders could be used.
 
 
 # Results:
