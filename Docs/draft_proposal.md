@@ -5,6 +5,20 @@
 ## BY : Sivaji Ganesh
 
 # Abstract
+
+
+
+
+
+# Dataset:
+
   
-  * 
+
+
+# Techniques and Models:
+  * Logistic Regression
+  * Random forest
+  * Decision tree
+  * K-nearest neighbor
+  * KNN Classification
 
