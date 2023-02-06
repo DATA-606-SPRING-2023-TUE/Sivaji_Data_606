@@ -10,7 +10,13 @@
 
 
 
-# Dataset:
+# Dataset Insights:
+
+
+
+
+
+# Anlaysis:
 
   
 
@@ -21,4 +27,12 @@
   * Decision tree
   * K-nearest neighbor
   * KNN Classification
+
+
+# Results:
+
+
+# References:
+
+
 
