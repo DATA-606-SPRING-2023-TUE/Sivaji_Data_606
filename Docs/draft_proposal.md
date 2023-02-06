@@ -21,6 +21,10 @@
 
 # Anlaysis:
 
+
+# Feature Coloumns and target variables
+  My EDA feature columns will include information like the location of the target variable(s), the type of license being wanted, the state where it will be located,   and the number of cities to which it will be actively present.
+
   
 
 
