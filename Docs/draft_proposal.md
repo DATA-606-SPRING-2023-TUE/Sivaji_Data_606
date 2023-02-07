@@ -10,7 +10,7 @@
 * My project involves using machine learning techniques to analyze active alcohol license data from a data set in order to identify trends in alcohol sales. This is   useful in business to identify sales trends.
 
 # Dataset:
-* The data shows the current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the state of Missouri. The dataset is   extracted from the link https://catalog.data.gov/dataset/missouri-active-alcohol-license-data. This data includes details such as the license type, licensee name, address, and issuing authority for each active license. The information can be used to gain insights into the distribution of alcohol licenses across the state and to monitor compliance with regulations governing the sale of alcoholic beverages.The data set is 3 mb in size. It has 18423 rows and 20 columns.
+* The data shows the current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the state of Missouri. The dataset is   extracted from the link https://catalog.data.gov/dataset/missouri-active-alcohol-license-data. This data includes details such as the license type, licensee name, address, and issuing authority for each active license.The data set is 3 mb in size. It has 18423 rows and 20 columns.
 
 
 # Anlaysis:
