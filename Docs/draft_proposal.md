@@ -32,13 +32,7 @@ Finally, the model's performance is evaluated on the test data to determine its 
 
 
 # Results:
-The use of the prediction or classification models might lead to considerable outcomes such as:
-  * Predicting license approvals or renewals: The model can predict the likelihood of a license being approved or renewed based on historical data and relevant           features such as location, license type, and issuing authority.
-  * Classifying license types: The model can classify licenses into different types based on the data and relevant features. This could be useful for tracking and       managing different types of licenses, such as retail, wholesale, or manufacturing licenses.
-  * Forecasting license demand: The model can be used to predict the demand for licenses in a particular location or region based on historical data and relevant         features. This could help government agencies and businesses to plan and allocate resources more effectively.
-  * Improving the efficiency of the license review process: The model can be used to automate certain aspects of the license review process, such as initial             screening, reducing the workload of human reviewers, and ensuring that the process is consistent and fair.
-These are some of the potential outcomes of using classification or prediction models for "Missouri Active Alcohol License Data". The specific outcome will depend on the goals and objectives of the project and the data used to train the model.
-
+At the end of the project, I will know complete trends of alcohol sales from my data set and also be able to predict the demand for licenses in a specific location or region based on the data. This could help government agencies and business people to start an alcohol business in a good place where they can get good profits.
 
 # References:
   https://catalog.data.gov/dataset/missouri-active-alcohol-license-data
