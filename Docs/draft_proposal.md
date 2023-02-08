@@ -7,7 +7,7 @@
 ## BY : Sivaji Ganesh
 
 # Introduction:
-* My main goal for this project is to give people a basic idea of whether they can start a new  business in a certain place or not. This will be done by using         some machine learning algorithms to look at the sales trends and best license holders in that area by analyzing the data.
+* My main goal for this project is to give people a basic idea of whether they can start a new  business in a certain place or not. This will be done by using         some machine learning algorithms to look at the sales trends and also predicting best license holders in that area by analyzing the data.
 
 # Dataset:
 * The data shows the current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the state of Missouri. The dataset is   extracted from the link https://catalog.data.gov/dataset/missouri-active-alcohol-license-data. This data includes details such as the license type, licensee name,   address, and issuing authority for each active license.The data set is 3 mb in size. It has 18423 rows and 20 columns.
