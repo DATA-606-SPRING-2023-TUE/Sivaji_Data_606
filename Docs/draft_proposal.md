@@ -7,7 +7,11 @@
 ## BY : Sivaji Ganesh
 
 # Introduction:
-* My main goal for this project is to give people a basic idea of whether they can start a new  business in a certain place or not. This will be done by using         some machine learning algorithms to look at the sales trends and also predicting best license holders in that area by analyzing the data.
+* My main goal of this project is to predict diseases that are major causes of death and ranking them.
+
+
+# Goal
+* Main goal of this project is to predict diseases that are major causes of death and ranking them.
 
 # Dataset:
 * This data set provides the provisional death counts due to various causes and diseases among people of Hispanic origin in the United States for different age         groups and sex. The dataset provides deaths from 2019 through 2021. The dataset is extracted from “data.gov” website and this dataset has 3960 rows and 24           columns.
