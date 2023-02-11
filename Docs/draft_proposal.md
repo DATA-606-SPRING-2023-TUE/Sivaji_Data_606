@@ -41,7 +41,7 @@
 
 
 # Results:
-  From this project, I will know complete trends of deaths from my data set and also will be able to predict future trends that cause death.This could help             government and researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various         conditions and diseases.
+  * From this project, I will know complete trends of deaths from my data set and also will be able to predict future trends that cause death.This could help             government and researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various         conditions and diseases.
 
 # References:
-  https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-group-sex-and-race-ethnicity-for-select-causes
+   https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-group-sex-and-race-ethnicity-for-select-causes
