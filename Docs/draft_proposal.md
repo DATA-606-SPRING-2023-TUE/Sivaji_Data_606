@@ -28,20 +28,19 @@
 
 # Anlaysis:
 * which model is best for predicting the sales?
-* Does sales change based on the location?
-* Who are the best license holders?
-* chance of getting a license?
+* Which column is the label column that you want to use for prediction?
 
 
 # Techniques and Models:
-Several machine learning models are going to be used in this project like:
-  * Classification: To predict the likelihood of a license being granted or revoked based on various factors, classification models such as logistic                     regression, decision trees, random forests, and support vector machines could be used.
-  * Regression: To predict the number of alcohol licenses issued in a particular area or for a particular license type, regression models such as         linear         regression, decision trees, random forests, and neural networks could be used.
-  * Anomaly detection: If the goal is to identify unusual or irregular patterns in the issuance of licenses, anomaly detection models such as one-class SVM,             isolation forests, and autoencoders could be used..
+  * Selection of the model are logistic regression, a classification model, decision trees, random forest and SVM 
+  * Logistic regression – This algorithm will be used for a binary classification and predict if a person is going to die from a certain disease or not.
+  * Decision trees – This technique is used in the identification of the factors that are effective and contribute to various deaths from a certain disease. This is       useful in predicting the probability of a death from a certain disease based on designated factors.
+  * Random forest -This technique would involve a combination of the prediction from the decision trees to provide a prediction that is more accurate.
+
 
 
 # Results:
-At the end of the project, I will know complete trends of alcohol sales from my data set and also will be able to predict the demand for licenses in a specific location or region based on the data. This could help government agencies and business people to start an alcohol business in a good place where they can get good profits.
+  From this project, I will know complete trends of deaths from my data set and also will be able to predict future trends that cause death.This could help             government and researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various         conditions and diseases.
 
 # References:
-  https://catalog.data.gov/dataset/missouri-active-alcohol-license-data
+  https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-group-sex-and-race-ethnicity-for-select-causes
