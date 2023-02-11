@@ -1,6 +1,6 @@
 # Draft Proposal for my Capstone project 
 
-# Current license information of businesses involved in the manufacture, shipping, and/or sale of alcohol in the State of Missouri
+# AH Monthly Provisional Counts of Deaths for Select Causes of Death by Sex, Age, and Race and Hispanic Origin
 
 ## Data_606 Capstone : Tuesday
 
