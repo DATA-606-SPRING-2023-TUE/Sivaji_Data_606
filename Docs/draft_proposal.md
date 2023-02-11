@@ -37,15 +37,15 @@
 
 
 # Techniques and Models:
-  * Selection of the model are logistic regression, a classification model, decision trees, random forest and SVM 
-  * Logistic regression – This algorithm will be used for a binary classification and predict if a person is going to die from a certain disease or not.
-  * Decision trees – This technique is used in the identification of the factors that are effective and contribute to various deaths from a certain disease. This is       useful in predicting the probability of a death from a certain disease based on designated factors.
-  * Random forest -This technique would involve a combination of the prediction from the decision trees to provide a prediction that is more accurate.
+* Selection of the model are logistic regression, a classification model, decision trees, random forest and SVM 
+* Logistic regression – This algorithm will be used for a binary classification and predict if a person is going to die from a certain disease or not.
+* Decision trees – This technique is used in the identification of the factors that are effective and contribute to various deaths from a certain disease. This is     useful in predicting the probability of a death from a certain disease based on designated factors.
+* Random forest -This technique would involve a combination of the prediction from the decision trees to provide a prediction that is more accurate.
 
 
 
 # Results:
-  * From this project, I will know complete trends of deaths from my data set and also will be able to predict future trends that cause death.This could help             government and researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various         conditions and diseases.
+* From this project, I will know complete trends of deaths from my data and also will be able to predict future trends that cause death.This could help                 government and researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various         conditions and diseases.
 
 # References:
-   https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-group-sex-and-race-ethnicity-for-select-causes
+* https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-group-sex-and-race-ethnicity-for-select-causes
