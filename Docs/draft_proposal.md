@@ -32,8 +32,12 @@
 
 
 # Anlaysis:
-* which model is best for predicting the sales?
-* Which column is the label column that you want to use for prediction?
+* What are the most common causes of death in the population?
+* How does the number of deaths for a specific cause vary by the factors like sex, race, age, and Hispanic origin?
+* What are the trends in deaths over time for different causes?
+* Are there any correlations between the specific causes of death and the  factors such as sex, age, Hispanic origin, and race?
+* Are there any differences in the death rates between different demographic groups, and what factors may be contributing to these disparities?
+* Are there any trends in the data that suggest potential risk factors for specific causes of death?
 
 
 # Techniques and Models:
