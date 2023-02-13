@@ -7,8 +7,7 @@
 ## BY : Sivaji Ganesh
 
 # Introduction:
-* My main goal of this project is to predict diseases that are major causes of death and ranking them.
-
+* Human life is very important, but now a days many humans are suffering from health diseases which are caused by a person's lifestyle,Genetics,lack of physical       activity, and environmental factors. and now a days people died from many different diseases this happens when the body can't fight with the  disease. In some       cases, **early detection and treatment can help stop or slow the progression of a disease.** and also analysis on the causes of death based on this dataset will     help researchers in the medical sectors to make efforts to properly understand the social, environmental, and biological reasons that cause various conditions and   diseases.
 
 # Goal
 * Main goal of this project is to predict diseases that are major causes of death and ranking them.
