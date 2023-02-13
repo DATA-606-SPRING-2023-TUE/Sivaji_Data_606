@@ -28,7 +28,7 @@
   * All cause –
   * Natural cause – 
   * Other Dieases: Diabetes mellitus (E10-E14), Alzheimer disease (G30), Influenza and pneumonia (J09-J18), Chronic lower respiratory diseases (J40-J47)
-  From these features to predict the cause of death based on variables like sex, age, race, or Hispanic origin, then those columns would be the input features and     the cause of death (disease) will be the my target variable.
+  * From these features to predict the cause of death based on variables like sex, age, race, or Hispanic origin, then those columns would be the input features and     the cause of death (disease) will be the my target variable.
 
 
 # Anlaysis:
