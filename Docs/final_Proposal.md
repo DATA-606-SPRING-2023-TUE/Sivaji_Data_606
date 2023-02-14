@@ -1,6 +1,6 @@
 # Draft Proposal for my Capstone project 
 
-# AH Monthly Provisional Counts of Deaths for Select Causes of Death by Sex, Age, and Race and Hispanic Origin
+#  Diseases prediction that are major causes for death
 
 ## Data_606 Capstone : Tuesday
 
