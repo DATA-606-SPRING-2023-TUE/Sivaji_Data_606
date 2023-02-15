@@ -1,4 +1,4 @@
-# Draft Proposal for my Capstone project 
+# Final Proposal for my Capstone project 
 
 #  Diseases prediction that are major causes for death
 
