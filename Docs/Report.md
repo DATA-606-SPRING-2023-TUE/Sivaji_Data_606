@@ -63,15 +63,15 @@ This dataset includes (Data, Location, min temparature, Max temparature, Rainfal
 # 4.Methodology:
 There are many different methods for using machine learning algorithms for rainfall prediction. The following is an overview of the typical stages required in creating a machine learning model for rainfall prediction:
 
-**1.Data Collection:** The first step is to collect appropriate data for training the model. This covers rainfall data from previous years as well as other meteorological         factors including temperature, humidity, wind speed, air pressure, and cloud cover.
+**1.Data Collection:** The first step is to collect appropriate data for training the model. This covers rainfall data from previous years as well as other meteorological    factors including temperature, humidity, wind speed, air pressure, and cloud cover.
   
-**Data Preprocessing:** After collecting the data, it must be preprocessed to ensure its quality and effectiveness for training the machine learning model. Data                cleaning,removing outliers, dealing with missing numbers, and normalizing or scaling the data are all part of this stage.
+**2.Data Preprocessing:** After collecting the data, it must be preprocessed to ensure its quality and effectiveness for training the machine learning model. Data            cleaning,removing outliers, dealing with missing numbers, and normalizing or scaling the data are all part of this stage.
   
-**Feature Selection:** The most relevant features or variables from the dataset are selected in this step. This can include statistical analysis, domain knowledge, and         correlation analysis to determine which features have the most effect on rainfall forecast. 
+**3.Feature Selection:** The most relevant features or variables from the dataset are selected in this step. This can include statistical analysis, domain knowledge, and    correlation analysis to determine which features have the most effect on rainfall forecast. 
   
-**Model Selection:** Regression models (such as linear regression, decision trees, and random forests), time series models such as autoregressive integrated moving average     (ARIMA), support vector machines (SVM), neural networks, and ensemble methods can all be used to predict rainfall. The model used is determined by the problem's             specific requirements as well as the dataset's features.
+**4.Model Selection:** Regression models (such as linear regression, decision trees, and random forests), time series models such as autoregressive integrated moving average (ARIMA), support vector machines (SVM), neural networks, and ensemble methods can all be used to predict rainfall. The model used is determined by the problem's      specific requirements as well as the dataset's features.
   
-**Model Evaluation:** The trained model's performance is evaluated using the validation set. Mean absolute error (MAE), root mean squared error (RMSE), coefficient of           determination (R-squared), and correlation coefficients are common evaluation metrics for rainfall prediction.
+**5.Model Evaluation:** The trained model's performance is evaluated using the validation set. Mean absolute error (MAE), root mean squared error (RMSE), coefficient of      determination (R-squared), and correlation coefficients are common evaluation metrics for rainfall prediction.
   
   
   
@@ -85,33 +85,33 @@ There are many different methods for using machine learning algorithms for rainf
 
 
 
-This graph shows the instances of the target variable, that is rain tomorrow.
+  This graph shows the instances of the target variable, that is rain tomorrow.
 
-![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/fafa6864-6a1b-41d9-90fc-01d61e4cdbc4)
-
-
-
-This graph depicts that when there is minimum temperature, we can expect the rain fall as per the data.
-
-![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/ff3c076c-dee0-42fc-acb2-c2876bf5790c)
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/fafa6864-6a1b-41d9-90fc-01d61e4cdbc4)
 
 
 
-The graph depicts that when there is maximum temperature, we cannot expect the rain fall as per the data.
+  This graph depicts that when there is minimum temperature, we can expect the rain fall as per the data.
 
-![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/69011cc9-d6ea-4152-b483-00bad13307a3)
-
-
-
-The graph depits that when there is rainfall the sunshine gradually decreases.
-
-![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/574d0736-3143-4a4d-b2aa-621ee9f00e72)
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/ff3c076c-dee0-42fc-acb2-c2876bf5790c)
 
 
 
-The graph depicts that when there is gradual increase in sunshine  the amount of evaporation also increases.
+  The graph depicts that when there is maximum temperature, we cannot expect the rain fall as per the data.
 
-![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/4c6aa146-015f-450f-80a2-f32ae072537c)
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/69011cc9-d6ea-4152-b483-00bad13307a3)
+
+
+
+  The graph depits that when there is rainfall the sunshine gradually decreases.
+
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/574d0736-3143-4a4d-b2aa-621ee9f00e72)
+
+
+
+  The graph depicts that when there is gradual increase in sunshine  the amount of evaporation also increases.
+
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/4c6aa146-015f-450f-80a2-f32ae072537c)
 
 
 
