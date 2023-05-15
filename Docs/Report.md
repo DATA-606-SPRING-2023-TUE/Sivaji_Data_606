@@ -180,7 +180,7 @@ There are many different methods for using machine learning algorithms for rainf
   
 
 
-  # 9. Feature Scope:
+  # 9. Future Scope:
   The accuracy and efficiency of machine learning models for rainfall prediction heavily depend on selecting the right features.
   
   The proposed model can be inferred to predict the rainfall. If relevant data is available, the model can also be trained to take additional parameters. The model, with     minor modifications, can be integrated into simulation software to better predict the rainfall and give some emergency warning about the weather. So that people can take   necessary precautions.
