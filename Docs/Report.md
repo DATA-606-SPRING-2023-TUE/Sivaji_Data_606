@@ -135,3 +135,42 @@ There are many different methods for using machine learning algorithms for rainf
 
 
 
+  **2.Random Forest:** Random forest is an algorithm used in behavior analysis that is built on modeling assumptions and decision trees. It consists of several decision       trees representing a different example of the classification of data input into a random forest.and here we achieved Accuracy of 86% for Random Forest.
+
+  Here is the confusion matrix for Random Forest:
+
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/e3759fab-9c72-454d-9f43-0f5e8a95ed45)
+
+
+
+  **3.Decision Tree:** Decision trees are models that begin with root split into branches at nodes representing the predictor variables using the rules. 
+  
+  Each node Is then divided into multiple nodes. The goal is to use the decision tree to divide the data space into dense and thin regions.
+
+  As the number of splits increases the time required to build the tree also increases. And here we achieved Accuracy of 78% for Decision tree .
+  
+  Here is the confusion matrix for Decision Tree:
+  
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/ada78e0d-1daa-4033-ba9d-da9ca543734c)
+
+
+
+  **4.XGB Classifier:** XGBoost stands for extreme Gradient Boosting and it’s an open-source implementation of the gradient boosted trees algorithm. It has been one of the   most popular machine learning techniques in Kaggle competitions, due to its prediction power and ease of use. It is a supervised learning algorithm that can be used for     regression or classification tasks. and we achieved Accuracy of 86% for XGB Classifier
+  
+  Here is the confusion matrix for Decision Tree:
+  
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/7f51bb77-af18-4399-b655-7291a55dc7f5)
+
+  
+
+  **5.GB Classifier:** Gradient boosting is a machine learning technique used in regression and classification tasks, among others. It gives a prediction model in the form   of an ensemble of weak prediction models, which are typically decision trees.
+  
+  When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
+  
+  A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an           arbitrary differentiable loss function. and we achieved Accuracy of 85% for GB Classifier
+
+  Here is the confusion matrix for GB Classifier:
+  
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/b6debd28-a843-4cd2-b92d-0fd24bc08c24)
+
+  
