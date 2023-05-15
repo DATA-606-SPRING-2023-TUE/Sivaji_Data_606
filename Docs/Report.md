@@ -178,3 +178,9 @@ There are many different methods for using machine learning algorithms for rainf
   # 8.Conclusion:
   In conclusion, rainfall prediction is an important task in meteorology and has significant implications for various sectors such as agriculture, water resource             management, and disaster preparedness. Based upon the prediction results, the Machine learning models  we conclude that our prediction is correct, and the factors which     we have considered has significant impact in predicting the Rainfall.
   
+
+
+  # 9. Feature Scope:
+  The accuracy and efficiency of machine learning models for rainfall prediction heavily depend on selecting the right features.
+  
+  The proposed model can be inferred to predict the rainfall. If relevant data is available, the model can also be trained to take additional parameters. The model, with     minor modifications, can be integrated into simulation software to better predict the rainfall and give some emergency warning about the weather. So that people can take   necessary precautions.
