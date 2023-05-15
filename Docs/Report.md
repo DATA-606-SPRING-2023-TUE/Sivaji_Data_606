@@ -45,6 +45,25 @@ The main goal of this Project is to develop a predictive model on the Rainfall D
 
 
 
+# 3.Dataset
+This data is collected from Australian Government Bureau of Metrology.
+
+Data source: http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data.
+
+Definitions adapted from http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+
+This Data set consist of 145460 rows and 23 columns
+
+This dataset has data from 2000-01-01 to 2017-06-06.
+
+This dataset includes (Data, Location, min temparature, Max temparature, Rainfall, Evaporation, Sunshine, Wind Gust, Humidity, pressure, Cloud timings, RainToday, RainTomorrow).
+
+
+
+# 3.Methodology
+
+
+
 
 
 
