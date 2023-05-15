@@ -115,4 +115,23 @@ There are many different methods for using machine learning algorithms for rainf
 
 
 
+  # 6.Feature Engineering
+  We have approached this method of feature selection using XGB Classifier and Here are the important features that have more impact on the target variable.
+
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/ea3f346a-11c7-489a-8c02-8e30df920dae)
+  
+  
+  
+  # 7.Machine Learning Models
+  Several machine learning models can be used to figure out what the weather will be like. The choice of model relies on a number of things, such as the data that is         available, the specifics of the problem, and the level of accuracy that is needed. Here are some of the most well-known machine learning models that I have been used to     predict rainfall:
+  
+  **1.Logistic Regression:** Logistic regression is a machine learning approach that is used for binary classification. It is not, as the name implies, a set of rules for     regression problems with non-stop results. Instead, logistic regression is the preferred method for binary classification. This gives a discrete binary value between 0     and 1. Logistic regression estimates probabilities using its core logistic feature to assess the relationship between dependent variables and one or more independent       variables. These probabilities are then transformed into binary numbers for an estimation.
+  
+  Its range is fixed to be between zero and one. Additionally, R performs well when there is a large gap between the groups. here we have gained accuracy for LR is  84%.
+
+  Here is the confusion matrix for Logistic regression:
+  
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/95d6faf7-87d0-449b-866c-dda6aee12206)
+
+
 
