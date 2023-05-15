@@ -60,7 +60,28 @@ This dataset includes (Data, Location, min temparature, Max temparature, Rainfal
 
 
 
-# 3.Methodology
+# 4.Methodology:
+There are many different methods for using machine learning algorithms for rainfall prediction. The following is an overview of the typical stages required in creating a machine learning model for rainfall prediction:
+Data Collection:The first step is to collect appropriate data for training the model. This covers rainfall data from previous years as well as other meteorological         factors including temperature, humidity, wind speed, air pressure, and cloud cover.
+  
+  ###### Data Preprocessing: After collecting the data, it must be preprocessed to ensure its quality and effectiveness for training the machine learning model. Data           cleaning,removing outliers, dealing with missing numbers, and normalizing or scaling the data are all part of this stage.
+  
+  # Feature Selection: The most relevant features or variables from the dataset are selected in this step. This can include statistical analysis, domain knowledge, and         correlation analysis to determine which features have the most effect on rainfall forecast. 
+  
+  # Model Selection: Regression models (such as linear regression, decision trees, and random forests), time series models such as autoregressive integrated moving average    (ARIMA), support vector machines (SVM), neural networks, and ensemble methods can all be used to predict rainfall. The model used is determined by the problem's            specific requirements as well as the dataset's features.
+  
+  # Model Evaluation: The trained model's performance is evaluated using the validation set. Mean absolute error (MAE), root mean squared error (RMSE), coefficient of           determination (R-squared), and correlation coefficients are common evaluation metrics for rainfall prediction.
+  
+  
+  
+  # 5.Data Visualization:
+  This graph shows the Plotting Distribution of null values in the data set using pictorial representation.
+  
+  Here the columns: Evaporation, Sunshine,Cloud9am,cloud3pm contribute highest number of null values in this data set.
+
+
+  ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sivaji_Data_606/assets/112666192/6793a398-01cf-4826-aeae-fb7827487b4c)
+
 
 
 
